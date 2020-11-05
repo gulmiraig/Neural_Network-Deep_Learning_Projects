@@ -4,7 +4,9 @@
 Dataset from Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction
 
 This dataset contains house sale prices for King County, which includes Seattle. 
-It includes homes sold between May 2014 and May 2015. ## **This project's main task is to predict house price based on its features.** 
+It includes homes sold between May 2014 and May 2015.  
+
+## **This project's main task is to predict house price based on its features.** 
 
 
 2. 	Keras_Classification Project - Breast cancer wisconsin (diagnostic) dataset.
